@@ -10,11 +10,13 @@ The results are discussed in the [report](report.pdf) file.
 
 ## Repository Structure
 This repository contains:
- - three folders, `code`, `data`, `result`; 
+ - four folders, `template`, `code`, `data`, `result`; 
  - two .pdf, `task` and `report`; and
  - two .md files, `README` and `LICENCE`
  
 In the `task` pdf is reported the task of the assignment from the professor, in the report my explain of what I did, how and, with which results.
+
+In the `template` folder is reported all the templates used for the testing of the algorithms
 
 In the `data` folder is reported the dataset used. The dataset is divided in train and test and for each of them the `.data` file contains the tuple, (word concepts) and the `.feats.txt` file contains the tuples (word, Pos, Lemma). For a deeper analysis of the dataset composition please refer the [first midterm project report](https://github.com/WilliamsRizzi/LUS1/report.pdf) 
  
